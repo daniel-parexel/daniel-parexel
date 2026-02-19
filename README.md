@@ -3,6 +3,7 @@
 - 📈 I have expertise in stochastic processes (Markov models, survival analysis, mixed effects models), Bayesian inference, surrogate outcomes analysis, meta-analysis, external and augmented control arms, and machine learning (e.g., Bayesian networks)
 - 🎓 I have a background in applied math and was previously a Vice Chancellor's Scholar (PhD) at University of Cambridge. I currently work at Parexel Access Consulting
 - 🎨 In my free time I like to draw and paint wildlife 🦌 and landscapes 🏜️
+- 📝 See my Google Scholar profile for a full list of publications: https://scholar.google.com/citations?user=vfPgEv0AAAAJ&hl=en
 - 📫 Please contact me via email if you have a question
 
 <!---
